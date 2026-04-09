@@ -1,76 +1,119 @@
-# Hi, I'm Vinod M 👋
-
-**Full-Stack Developer · AI Integration Specialist · Entrepreneur**  
-📍 Mysuru, Karnataka, India · MCA Graduate
+<h1 align="center">Hi, I'm Vinod M 👋</h1>
+<h3 align="center">AI Engineer · Applied AI · Automation · Data Systems</h3>
+<p align="center">
+  <a href="https://vinod-ai.me"><img src="https://img.shields.io/badge/Portfolio-vinod--ai.me-blueviolet?style=for-the-badge&logo=astro" /></a>
+  <a href="mailto:sanatanivinodmnayak@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/vinod-m-b830061ba"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://share.streamlit.io/user/vinodvinum"><img src="https://img.shields.io/badge/Streamlit-Live%20Apps-FF4B4B?style=for-the-badge&logo=streamlit" /></a>
+</p>
 
 ---
 
-## 🚀 About Me
+## 🧑‍💻 About Me
 
-I build production-grade web applications, AI-powered tools, and business automation platforms. With a strong foundation in full-stack development and cloud deployment, I focus on delivering real-world software that solves actual problems — from AI assistants to e-commerce platforms and non-profit websites.
+I am an **MCA graduate and AI Engineer** from Mysuru, Karnataka, India, focused on building **applied AI, automation, and data-driven systems** that solve real-world problems.
 
-- 🔭 Currently building: **Sutra LifeOS**, **Deva AI**, **Medhaksha AI**, **SVB Innovations**
-- 🌐 All projects deployed live on **Vercel**
-- 💡 Interested in: AI engineering, SaaS products, WhatsApp automation, data analytics
-- 📫 Reach me via GitHub or through my projects
+- 🔭 Co-founder of **[Medhaksha Technology](https://medhakshatech.in/)**
+- 🤖 Building production-oriented AI systems — NLP, Computer Vision, OCR, Dashboards
+- 📄 Published in **IJIRCCE**: *Computer Vision Pipeline for Object Detection and Tracking with Speed Estimation*
+- 🌱 Currently learning: LLM application patterns, advanced analytics engineering, production monitoring for AI
+- 💼 Open to **AI / ML / Data-focused roles** — Mysuru & Bangalore
+- 📫 Reach me at **sanatanivinodmnayak@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat&logo=astro&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+**AI & Machine Learning**
+`Scikit-learn` `Feature Engineering` `Model Evaluation`
 
-**Backend & Databases**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+**Applied AI**
+`Transformers` `OpenCV` `OCR Pipelines` `NLP` `Computer Vision` `Object Detection`
 
-**Cloud & Deployment**  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+**Data & Analytics**
+`Python` `Pandas` `NumPy` `Streamlit` `Data Visualization`
 
-**AI & Automation**  
-![Google Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+**Engineering & Tools**
+`FastAPI` `REST APIs` `Git & GitHub` `Firebase` `Supabase` `MongoDB`
+
+**Web & Deployment**
+`Next.js` `Astro` `TypeScript` `HTML/CSS` `Vercel` `Render`
 
 ---
 
-## 🌟 Featured Projects
+## 🚀 Projects
+
+### 📊 Analytics & Dashboards
 
 | Project | Description | Stack | Live |
-|---|---|---|---|
-| [SVB Innovations](https://github.com/Vinodvinum/svb-innovations-site) | Smart Vision Build — business innovation platform | Next.js, TypeScript | [🔗 Live](https://svb-innovations-site.vercel.app) |
-| [Sutra LifeOS](https://github.com/Vinodvinum/sutra) | Personal life operating system app | Next.js, TypeScript | [🔗 Live](https://sutra-flame.vercel.app) |
-| [Deva AI](https://github.com/Vinodvinum/Deva-ai) | AI-powered assistant platform | HTML, JS, Gemini API | [🔗 Live](https://deva-ai-vph5.vercel.app) |
-| [Medhaksha AI](https://github.com/Vinodvinum/medhaksha-ai) | Medical/educational AI tool | Python | [🔗 Live](https://medhaksha-ai.vercel.app) |
-| [BharaathGrocery](https://github.com/Vinodvinum/BharaathGrocery) | E-commerce grocery platform | HTML, CSS, JS | [🔗 Live](https://bharaath-grocery.vercel.app) |
-| [Kamadenu Goushala](https://github.com/Vinodvinum/kamadenu-goushala) | Non-profit cow shelter website | Astro | [🔗 Live](https://kamadenu-goushala.vercel.app) |
-| [Yatra Sanghama](https://github.com/Vinodvinum/yatra-sanghama) | AI-powered global travel platform | TypeScript | — |
-| [Financial Dashboard](https://github.com/Vinodvinum/Financial_dashboard) | Personal finance tracker and analytics | Python, Streamlit | — |
-| [Hiring Chatbot](https://github.com/Vinodvinum/Hirinig_chatbot) | AI chatbot to assist the hiring process | Python | — |
-| [Library Management](https://github.com/Vinodvinum/LibraryManagement) | Full library workflow management system | Python, Streamlit | — |
+|---------|-------------|-------|------|
+| [AI Financial Dashboard](https://github.com/Vinodvinum/Financial_dashboard) | AI-focused financial dashboard for interactive analytics and transaction tracking | Python, Streamlit | [▶ Live](https://aifinancialdashboard.streamlit.app/) |
+| [Visionverse Dashboard](https://github.com/Vinodvinum/visonverse_dashboard) | Streamlit dashboard for Visionverse analytics and reporting | Python, Streamlit | [▶ Live](https://visonversedashboard.streamlit.app/) |
+| [GRS Dashboard](https://github.com/Vinodvinum/GRS_Dashboard) | Streamlit-based GRS analytics dashboard | Python, Streamlit | [▶ Live](https://grsdashboard.streamlit.app/) |
+
+### 🌐 Websites & Platforms
+
+| Project | Description | Stack | Live |
+|---------|-------------|-------|------|
+| [Sushvin AI Labs](https://github.com/Vinodvinum/sushvinailabs-astro) | AI lab and experimentation space for applied AI ideas | Astro, TypeScript | [▶ Live](https://sushvinailabs.vercel.app/) |
+| [Bharaath Grocery](https://github.com/Vinodvinum/BharaathGrocery) | E-commerce grocery web app with full product workflow | HTML, JavaScript | [▶ Live](https://bharaath-grocery.vercel.app/) |
+| [Kamadenu Goushala](https://github.com/Vinodvinum/kamadenu-goushala) | Community platform for cow shelter and seva initiatives | Astro | [▶ Live](https://kamadenu-goushalaa.vercel.app/) |
+| [Yatra Sanghama](https://github.com/Vinodvinum/yatra-sanghama) | AI-powered global travel platform with smart recommendations | TypeScript, Next.js | [▶ Live](https://yatra-sanghama.vercel.app/) |
+
+### 🤖 AI Automation & Chatbots
+
+| Project | Description | Stack | Live |
+|---------|-------------|-------|------|
+| [Hiring Chatbot](https://github.com/Vinodvinum/Hirinig_chatbot) | AI chatbot for hiring and candidate interaction workflows | Python, Streamlit | [▶ Live](https://oymhwdaagy29uyftpklvah.streamlit.app/) |
+| [Deva AI](https://github.com/Vinodvinum/Deva-ai) | Active AI project — live and evolving on Vercel | HTML, JavaScript | [▶ Live](https://deva-ai-vph5.vercel.app/) |
+| [Sutra](https://github.com/Vinodvinum/sutra) | Dashboard-style life OS app deployed on Vercel | TypeScript | [▶ Live](https://sutra-flame.vercel.app/dashboard) |
+| Sushvin WhatsApp Bot | AI-powered WhatsApp automation for customer support & booking | Python, FastAPI, NLP | — |
+
+### 🛠️ Utilities & Media
+
+| Project | Description | Stack | Live |
+|---------|-------------|-------|------|
+| [Image Compressor App](https://github.com/Vinodvinum/image-compressor-app) | Lightweight image compression tool with live deployment | Python, Streamlit | [▶ Live](https://image-compreappr-app.streamlit.app/) |
+| [Image Animation](https://github.com/Vinodvinum/image_animation) | Streamlit app for image animation automation | HTML, Python | [GitHub](https://github.com/Vinodvinum/image_animation) |
+
+### 👁️ Computer Vision
+
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [Fruits Quality Detection](https://github.com/Vinodvinum/Fruits_quality_detection) | ML pipeline for detecting good/bad fruit quality | Python, OpenCV |
+| Object Detection & Speed Estimation | Published CV pipeline for real-time object tracking and speed estimation | OpenCV, Python, ML |
+| [Medhaksha AI](https://github.com/Vinodvinum/medhaksha-ai) | AI system for Medhaksha Technology — medical/educational intelligence | Python |
+| [Amazon Deforestation Analysis](https://github.com/Vinodvinum/amazon-deforestation-analysis) | Data analysis and visualization of Amazon deforestation trends | Python, Pandas |
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
-![Vinod's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Vinodvinum&show_icons=true&theme=default&hide_border=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Vinodvinum&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vinodvinum&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vinodvinum&layout=compact&theme=default&hide_border=true)
+---
+
+## 📰 Publication
+
+**IJIRCCE** — *Computer Vision Pipeline for Object Detection and Tracking with Speed Estimation*
+Applied computer vision research combining object detection, tracking algorithms, and real-time speed estimation from video streams.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm open to **freelance projects**, **collaborations**, and **full-time roles** in web development and AI engineering.
+| Platform | Link |
+|----------|------|
+| 🌐 Portfolio | [vinod-ai.me](https://vinod-ai.me) |
+| 💼 LinkedIn | [linkedin.com/in/vinod-m-b830061ba](https://www.linkedin.com/in/vinod-m-b830061ba) |
+| 📧 Email | sanatanivinodmnayak@gmail.com |
+| 💬 WhatsApp | [+91 9163613198](https://wa.me/916361319844) |
+| 🚀 Streamlit Apps | [share.streamlit.io/user/vinodvinum](https://share.streamlit.io/user/vinodvinum) |
 
-- 🌐 [SVB Innovations](https://svb-innovations-site.vercel.app)
-- 🌐 [Sushvin AI Labs](https://sushvinailabs.vercel.app)
-- 📍 Based in Mysuru, Karnataka — open to remote work
+---
+
+<p align="center">⭐ <i>If you find any of my projects useful, consider giving them a star!</i> ⭐</p>
+<p align="center">💼 <b>Actively seeking AI / ML / Data roles in Mysuru & Bangalore</b></p>
