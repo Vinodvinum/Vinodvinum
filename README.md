@@ -5,6 +5,8 @@
   <a href="mailto:sanatanivinodmnayak@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" /></a>
   <a href="https://www.linkedin.com/in/vinod-m-b830061ba"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="https://share.streamlit.io/user/vinodvinum"><img src="https://img.shields.io/badge/Streamlit-Live%20Apps-FF4B4B?style=for-the-badge&logo=streamlit" /></a>
+  <a href="https://vercel.com/vinodvinum"><img src="https://img.shields.io/badge/Vercel-Deployments-black?style=for-the-badge&logo=vercel" /></a>
+  <a href="https://dashboard.render.com/u/vinodvinum"><img src="https://img.shields.io/badge/Render-Services-46E3B7?style=for-the-badge&logo=render&logoColor=black" /></a>
 </p>
 
 ---
@@ -15,8 +17,8 @@ I am an **MCA graduate and AI Engineer** from Mysuru, Karnataka, India, focused 
 
 - 🔭 Co-founder of **[Medhaksha Technology](https://medhakshatech.in/)**
 - 🤖 Building production-oriented AI systems — NLP, Computer Vision, OCR, Dashboards
-- 📄 Published in **IJIRCCE**: *Computer Vision Pipeline for Object Detection and Tracking with Speed Estimation*
-- 🌱 Currently learning: LLM application patterns, advanced analytics engineering, production monitoring for AI
+- 📔 Published in **IJIRCCE**: *Computer Vision Pipeline for Object Detection and Tracking with Speed Estimation*
+- 🌱 Currently learning: LLM application patterns, advanced analytics engineering, production AI monitoring
 - 💼 Open to **AI / ML / Data-focused roles** — Mysuru & Bangalore
 - 📫 Reach me at **sanatanivinodmnayak@gmail.com**
 
@@ -37,7 +39,7 @@ I am an **MCA graduate and AI Engineer** from Mysuru, Karnataka, India, focused 
 `FastAPI` `REST APIs` `Git & GitHub` `Firebase` `Supabase` `MongoDB`
 
 **Web & Deployment**
-`Next.js` `Astro` `TypeScript` `HTML/CSS` `Vercel` `Render`
+`Next.js` `Astro` `TypeScript` `HTML/CSS` `Vercel` `Render` `Streamlit Cloud`
 
 ---
 
@@ -67,7 +69,7 @@ I am an **MCA graduate and AI Engineer** from Mysuru, Karnataka, India, focused 
 | [Hiring Chatbot](https://github.com/Vinodvinum/Hirinig_chatbot) | AI chatbot for hiring and candidate interaction workflows | Python, Streamlit | [▶ Live](https://oymhwdaagy29uyftpklvah.streamlit.app/) |
 | [Deva AI](https://github.com/Vinodvinum/Deva-ai) | Active AI project — live and evolving on Vercel | HTML, JavaScript | [▶ Live](https://deva-ai-vph5.vercel.app/) |
 | [Sutra](https://github.com/Vinodvinum/sutra) | Dashboard-style life OS app deployed on Vercel | TypeScript | [▶ Live](https://sutra-flame.vercel.app/dashboard) |
-| Sushvin WhatsApp Bot | AI-powered WhatsApp automation for customer support & booking | Python, FastAPI, NLP | — |
+| [Sushvin WhatsApp Bot](https://github.com/Vinodvinum/sushvin-wa-bot) | AI-powered WhatsApp automation for customer support & booking | Python, FastAPI, NLP | — |
 
 ### 🛠️ Utilities & Media
 
@@ -82,8 +84,18 @@ I am an **MCA graduate and AI Engineer** from Mysuru, Karnataka, India, focused 
 |---------|-------------|-------|
 | [Fruits Quality Detection](https://github.com/Vinodvinum/Fruits_quality_detection) | ML pipeline for detecting good/bad fruit quality | Python, OpenCV |
 | Object Detection & Speed Estimation | Published CV pipeline for real-time object tracking and speed estimation | OpenCV, Python, ML |
-| [Medhaksha AI](https://github.com/Vinodvinum/medhaksha-ai) | AI system for Medhaksha Technology — medical/educational intelligence | Python |
-| [Amazon Deforestation Analysis](https://github.com/Vinodvinum/amazon-deforestation-analysis) | Data analysis and visualization of Amazon deforestation trends | Python, Pandas |
+| [Medhaksha AI](https://github.com/Vinodvinum/medhaksha-ai) | AI-powered educational platform for data/AI learners | Python, FastAPI, Next.js |
+| [Amazon Deforestation Analysis](https://github.com/Vinodvinum/amazon-deforestation-analysis) | Satellite-based climate risk assessment using ML | Python, Pandas |
+
+---
+
+## 🌐 Deployment Profiles
+
+| Platform | Profile | Projects Hosted |
+|----------|---------|----------------|
+| ▲ Vercel | [vercel.com/vinodvinum](https://vercel.com/vinodvinum) | Sutra, Deva AI, Sushvin AI Labs, Bharaath Grocery, Kamadenu Goushala, Yatra Sanghama, Portfolio |
+| 🟢 Render | [dashboard.render.com/u/vinodvinum](https://dashboard.render.com/u/vinodvinum) | Medhaksha AI Backend (FastAPI), Other backend services |
+| 🔴 Streamlit Cloud | [share.streamlit.io/user/vinodvinum](https://share.streamlit.io/user/vinodvinum) | Financial Dashboard, Visionverse Dashboard, GRS Dashboard, Image Compressor, Hiring Chatbot |
 
 ---
 
@@ -96,7 +108,7 @@ I am an **MCA graduate and AI Engineer** from Mysuru, Karnataka, India, focused 
 
 ---
 
-## 📰 Publication
+## 📐 Publication
 
 **IJIRCCE** — *Computer Vision Pipeline for Object Detection and Tracking with Speed Estimation*
 Applied computer vision research combining object detection, tracking algorithms, and real-time speed estimation from video streams.
@@ -112,6 +124,8 @@ Applied computer vision research combining object detection, tracking algorithms
 | 📧 Email | sanatanivinodmnayak@gmail.com |
 | 💬 WhatsApp | [+91 9163613198](https://wa.me/916361319844) |
 | 🚀 Streamlit Apps | [share.streamlit.io/user/vinodvinum](https://share.streamlit.io/user/vinodvinum) |
+| ▲ Vercel | [vercel.com/vinodvinum](https://vercel.com/vinodvinum) |
+| 🟢 Render | [dashboard.render.com/u/vinodvinum](https://dashboard.render.com/u/vinodvinum) |
 
 ---
 
