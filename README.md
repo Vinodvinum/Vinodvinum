@@ -19,7 +19,7 @@ I am an **MCA graduate and Data analyst and Aspired AI Engineer** from Mysuru, K
 - 🤖 Building production-oriented AI systems — NLP, Computer Vision, OCR, Dashboards
 - 📔 Published in **IJIRCCE**: *Computer Vision Pipeline for Object Detection and Tracking with Speed Estimation*
 - 🌱 Currently learning: LLM application patterns, advanced analytics engineering, production AI monitoring
-- 💼 Open to ** Data Analyst / AI / ML / Data-focused roles** — Mysuru & Bangalore
+- 💼 Open to **Data Analyst / AI / ML / Data-focused roles** — Mysuru & Bangalore
 - 📫 Reach me at **sanatanivinodmnayak@gmail.com**
 
 ---
