@@ -13,9 +13,9 @@
 
 ## 🧑‍💻 About Me
 
-I am an **MCA graduate and AI Engineer** from Mysuru, Karnataka, India, focused on building **applied AI, automation, and data-driven systems** that solve real-world problems.
+I am an **MCA graduate and Data analyst and Aspired AI Engineer** from Mysuru, Karnataka, India, focused on building **applied AI, automation, and data-driven systems** that solve real-world problems.
 
-- 🔭 Co-founder of **[Medhaksha Technology](https://medhakshatech.in/)**
+- 🔭 Founding team of **[Medhaksha Technology](https://medhakshatech.in/)**
 - 🤖 Building production-oriented AI systems — NLP, Computer Vision, OCR, Dashboards
 - 📔 Published in **IJIRCCE**: *Computer Vision Pipeline for Object Detection and Tracking with Speed Estimation*
 - 🌱 Currently learning: LLM application patterns, advanced analytics engineering, production AI monitoring
