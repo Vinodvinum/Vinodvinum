@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vinod M 👋</h1>
-<h3 align="center">AI Engineer · Applied AI · Automation · Data Systems</h3>
+<h3 align="center"> Data Analyst · AI Engineer · Applied AI · Automation · Data Systems</h3>
 <p align="center">
   <a href="https://vinod-ai.me"><img src="https://img.shields.io/badge/Portfolio-vinod--ai.me-blueviolet?style=for-the-badge&logo=astro" /></a>
   <a href="mailto:sanatanivinodmnayak@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail" /></a>
