@@ -70,6 +70,8 @@ I am an **MCA graduate and Data analyst and Aspired AI Engineer** from Mysuru, K
 | [Deva AI](https://github.com/Vinodvinum/Deva-ai) | Active AI project — live and evolving on Vercel | HTML, JavaScript | [▶ Live](https://deva-ai-vph5.vercel.app/) |
 | [Sutra](https://github.com/Vinodvinum/sutra) | Dashboard-style life OS app deployed on Vercel | TypeScript | [▶ Live](https://sutra-flame.vercel.app/dashboard) |
 | [Sushvin WhatsApp Bot](https://github.com/Vinodvinum/sushvin-wa-bot) | AI-powered WhatsApp automation for customer support & booking | Python, FastAPI, NLP | — |
+| [AI Document Intelligence Engine](https://github.com/Vinodvinum/Ai_document_intelligence) | Full-stack AI platform for extracting structured data from invoices & documents using DeepSeek LLM, OCR, confidence scoring | FastAPI, Next.js, Streamlit, DeepSeek | [▶ Live Frontend](https://ai-document-intelligence-two.vercel.app) · [▶ Live API](https://ai-document-intelligence-3d93.onrender.com/docs) · [▶ Streamlit](https://aidocumentintelligence-cviugxs5rpdfczaoy7xjjk.streamlit.app) |
+| [MediSense AI](https://github.com/Vinodvinum/MediSense_ai) | AI-powered healthcare chatbot using NLP (spaCy) to analyze symptoms, predict diseases with confidence scores, recommend specialists, and provide care precautions — with emergency detector and hospital finder for Mysuru | Python, spaCy, Streamlit, NLP | [▶ Live](https://medisenseaivin.streamlit.app) |
 
 ### 🛠️ Utilities & Media
 
@@ -93,9 +95,9 @@ I am an **MCA graduate and Data analyst and Aspired AI Engineer** from Mysuru, K
 
 | Platform | Profile | Projects Hosted |
 |----------|---------|----------------|
-| ▲ Vercel | [vercel.com/vinodvinum](https://vercel.com/vinodvinum) | Sutra, Deva AI, Sushvin AI Labs, Bharaath Grocery, Kamadenu Goushala, Yatra Sanghama, Portfolio |
-| 🟢 Render | [dashboard.render.com/u/vinodvinum](https://dashboard.render.com/u/vinodvinum) | Medhaksha AI Backend (FastAPI), Other backend services |
-| 🔴 Streamlit Cloud | [share.streamlit.io/user/vinodvinum](https://share.streamlit.io/user/vinodvinum) | Financial Dashboard, Visionverse Dashboard, GRS Dashboard, Image Compressor, Hiring Chatbot |
+| ▲ Vercel | [vercel.com/vinodvinum](https://vercel.com/vinodvinum) | Sutra, Deva AI, Sushvin AI Labs, Bharaath Grocery, Kamadenu Goushala, Yatra Sanghama, Portfolio , AI Document Intelligence |
+| 🟢 Render | [dashboard.render.com/u/vinodvinum](https://dashboard.render.com/u/vinodvinum) | Medhaksha AI Backend (FastAPI), Other backend services , AI Document Intelligence Backend |
+| 🔴 Streamlit Cloud | [share.streamlit.io/user/vinodvinum](https://share.streamlit.io/user/vinodvinum) | Financial Dashboard, Visionverse Dashboard, GRS Dashboard, Image Compressor, Hiring Chatbot , MediSense AI, AI Document Intelligence |
 
 ---
 
